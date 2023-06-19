@@ -1,4 +1,5 @@
 .background{
+    background-image: url(screen.png);
     background-size: cover;
     width: 1280px;
     height: 720px;
